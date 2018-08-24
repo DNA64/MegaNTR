@@ -24,7 +24,12 @@ All cheat files were intitally sourced from fort42: http://www.fort42.com/gatesh
  - 3.3
  - 3.6
  
-5.) Once you're back at the home menu open supported game, the upper screen should flash green for a moment, once it's loaded press select to access the cheat menu.
+5.) Once you're back at the home menu launch any supported game title, the upper screen should flash green for a moment, once it's loaded press select to access the cheat menu.
 
 ### FAQ
 Coming soon...
+
+### Known Issues
+
+- System crashes when exiting game.
+- Both the upper and lower screens will at times display garbage output.
