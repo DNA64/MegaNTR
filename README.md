@@ -31,5 +31,6 @@ Coming soon...
 
 ### Known Issues
 
-- System crashes when exiting game.
+- System crashes when exiting game (Tempoary Fix: Press Power, then home to exit).
+- System crashes when loading game.
 - Both the upper and lower screens will at times display garbage output.
