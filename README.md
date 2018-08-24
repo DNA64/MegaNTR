@@ -14,12 +14,16 @@ All cheat files were intitally sourced from fort42: http://www.fort42.com/gatesh
 ### Installation
 
 1.) Extract the contents of the zip file to your desktop and copy the "plugin" folder to the root of your systems SD card.
+
 2.) Open bootNTR Selector and wait while it initializes, this may take a few seconds, be patient. 
+
 3.) Select "Default" followed by "Save Settings".
+
 4.) Touch the desired version to boot:
  - 3.2
  - 3.3
  - 3.6
+ 
 5.) Once you're back at the home menu open supported game, the upper screen should flash green for a moment, once it's loaded press select to access the cheat menu.
 
 ### FAQ
